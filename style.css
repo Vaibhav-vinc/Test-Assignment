@@ -36,7 +36,7 @@ body{
     position: absolute;
     z-index: -1;
     height: 95%;
-    aspect-ratio: 1 / 1;
+    width: 95%;
     top: 3em;
     left: 0;
 }
